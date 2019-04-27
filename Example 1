@@ -1,0 +1,20 @@
+public class Example1 {
+
+	
+	public static void main(String[] args) {
+		
+		int number1=45;
+		double number2=20.9;
+		String firstName="Axmed";
+		char letter='A';
+		
+		System.out.println(number1);
+		System.out.println(number2);
+		System.out.println(firstName);
+		System.out.println(letter);
+		
+		
+
+	}
+
+}
